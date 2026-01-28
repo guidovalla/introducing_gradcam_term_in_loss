@@ -1,0 +1,1 @@
+This folder contains the preliminary experiments to introduce the gaze info into the loss of the model to more closely align the model's visual attention patterns with those of human participants.
